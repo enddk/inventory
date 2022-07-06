@@ -15,7 +15,7 @@ laravel9.0<br>
 Node16.14.0<br>
 npm8.3.1<br>
 vue.js5.0.1<br>
-
+<br>
 firebase<br>
 aws(vpc, ec2, rds, s3, route53)<br>
 mysql8.1.2<br>
