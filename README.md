@@ -21,3 +21,4 @@ aws(vpc, ec2, rds, s3, route53)
 mysql8.1.2
 
 <h2>URL</h2>
+https://inventory-488ca.web.app/login
