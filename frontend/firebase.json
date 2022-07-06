@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "invetory",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
