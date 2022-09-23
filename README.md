@@ -24,3 +24,4 @@ mysql8.1.2<br>
 
 <h2>URL</h2>
 <strike><a>https://inventory-488ca.web.app</a></strike>
+※停止中
