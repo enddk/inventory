@@ -23,4 +23,4 @@ aws(vpc, ec2, rds, s3, route53)<br>
 mysql8.1.2<br>
 
 <h2>URL</h2>
-<strike>https://inventory-488ca.web.app</strike>
+<strike><a>https://inventory-488ca.web.app</a></strike>
